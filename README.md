@@ -1,13 +1,13 @@
 ## Hi there 👋
-### 👋 About Me
+### 👩‍💻 About Me
+PhD researcher in **bioinformatics and genomics** with a focus on multi-omics analysis and reproducible pipelines. My work involves analyzing large-scale sequencing data **(RNA-seq, GWAS, CNV, long-read assemblies)** to uncover genomic variation and link it to important crop traits.
 
-I am a PhD student with a research focus on **genomics and bioinformatics**, particularly in oilseed crops of the *Brassica* genus. My work involves analyzing high-throughput **DNA sequencing data** to understand how **copy number variation (CNVs)** influence **oil profile traits** in various *Brassica* species.
+🔬 **Current Projects**
+- Developing reproducible workflows (Nextflow, Snakemake) for omics data analysis on HPC (SLURM).
+- Investigating genomic variation in *Brassica*** species to understand the genetic architecture of oil composition and seed traits.
+- Comparative genomics study to uncover structural variation and gene regulation.
 
-🔬 **Current Projects**  
-- Investigating the **effect of CNV on oil composition** in *Brassica* species using genome-wide sequencing and statistical modeling.  
-- Analyzing **genomic variation in *Brassica carinata*** to identify key loci contributing to oil profile diversity and potential for crop improvement.
+🧬 Passionate about integrating genomics, computational biology, and data science to deliver actionable insights for plant breeding, biotechnology, and healthcare.
 
-🧬 I am passionate about integrating genomics, computational biology, and plant breeding to support sustainable agriculture and crop development.
-
-📫 Feel free to connect or collaborate—always happy to learn and share ideas!
+📫 Always open to collaboration and knowledge sharing—let’s connect!
 
