@@ -4,8 +4,8 @@ PhD researcher in **bioinformatics and genomics** with a focus on multi-omics an
 
 🔬 **Current Projects**
 - Developing reproducible workflows (Nextflow, Snakemake) for omics data analysis on HPC (SLURM).
-- Investigating genomic variation in *Brassica*** species to understand the genetic architecture of oil composition and seed traits.
-- Comparative genomics study to uncover structural variation and gene regulation.
+- Investigating genomic variation in *Brassica* species to understand the genetic architecture of oil composition and seed traits.
+- Applying comparative genomics to uncover structural variation and gene regulation.
 
 🧬 Passionate about integrating genomics, computational biology, and data science to deliver actionable insights for plant breeding, biotechnology, and healthcare.
 
